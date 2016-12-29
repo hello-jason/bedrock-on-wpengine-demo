@@ -7,3 +7,9 @@ Author: Jason
 Author URI: https://
 License: Whatever you want
 */
+
+function this_is_a_test() {
+	echo "<h1>Custom MU Plugin</h1>";
+}
+
+this_is_a_test();
